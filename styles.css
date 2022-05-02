@@ -1,0 +1,13 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darkgrey;
+}
+.recipe.link {
+    font-size: 24px;
+    color: aqua;
+}
+
+h1 {
+    font-size: 48px;
+    color: rgb(107, 30, 107);
+}
